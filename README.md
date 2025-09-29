@@ -10,11 +10,6 @@ Olá me chamo Fábio Eduardo, tenho 31 anos, Atualmente cursando Análise e Dese
 🎯 Foco em criar soluções práticas e criativas
 ---
 
-<!-- Banner de capa -->
-<p align="center">
-  <img src="https://i.ibb.co/xLn0XWq/banner-github.png" alt="Banner Fábio Eduardo" width="100%" />
-</p>
-
 
 ## 🚀 Tecnologias que uso
 <div>
