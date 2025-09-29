@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fabioeduu/fabioeduu/main/banner.png" alt="Banner Fábio Eduardo" width="100%" />
-</p>
+
 
 <h1 align="center">👨‍💻 Fábio Eduardo</h1>
 
