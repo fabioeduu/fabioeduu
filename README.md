@@ -1,4 +1,4 @@
-Fábio Eduardo
+🌟 Fábio Eduardo
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=6aa0f8&size=25&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+Fábio+Eduardo!;Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+React+%7C+Next.js;Criando+projetos+modernos+e+funcionais;Sempre+evoluindo+na+carreira+dev!" /> </p>
 👨‍💻 Sobre mim
 
@@ -19,7 +19,7 @@ Busco sempre melhorar como desenvolvedor e transformar ideias em projetos reais.
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,tailwind,mysql,postgres,docker,git,github,idea,vscode&theme=dark" /> </p>
 🏆 Projetos em Destaque
 
-
+👉 Se quiser, me envie os nomes dos seus projetos reais e eu adiciono aqui com cartões personalizados.
 
 <p align="center"> <a href="https://github.com/fabioeduu/REPO-1"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioeduu&repo=REPO-1&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/fabioeduu/REPO-2"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioeduu&repo=REPO-2&theme=tokyonight&hide_border=true" /> </a> </p>
 📊 Estatísticas do GitHub
