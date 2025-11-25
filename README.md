@@ -1,14 +1,43 @@
-<h1 align="center">👨‍💻 Fábio Eduardo</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=6aa0f8&size=23&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Estudante+de+ADS+na+FIAP;Criando+Projetos+Modernos+e+Funcionais" /> </p>
-🚀 Tecnologias & Ferramentas
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /> </p>
-📊 Estatísticas do GitHub
-<p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fabioeduu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeduu&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🧠 Sobre mim
-<p align="center"> 💡 Transformando ideias em código 🌱 Sempre aprendendo novas tecnologias 📍 Focado em Java, Spring, React e Next.js </p>
-🌐 Onde me encontrar
-<p align="center"> <a href="https://www.linkedin.com/in/fabioeduu"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/fabioeduu"> <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:fabioeduu@outlook.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> </a> </p>
-⭐ Visitas no Perfil
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fabioeduu&color=blue&style=flat-square" alt="Profile views" /> </p>
+Fábio Eduardo
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=6aa0f8&size=25&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+Fábio+Eduardo!;Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+React+%7C+Next.js;Criando+projetos+modernos+e+funcionais;Sempre+evoluindo+na+carreira+dev!" /> </p>
+👨‍💻 Sobre mim
 
-✨ Obrigado pela visita!
-Se gostar de algum projeto, deixe uma ⭐ — isso me ajuda muito! 🚀
+Sou um desenvolvedor apaixonado por tecnologia e pela criação de soluções modernas e eficientes.
+Atualmente estudo Análise e Desenvolvimento de Sistemas na FIAP, e estou focado em aprimorar minhas habilidades com:
+
+Java & Spring Boot
+
+React & Next.js
+
+Arquitetura de APIs
+
+Desenvolvimento full stack
+
+Busco sempre melhorar como desenvolvedor e transformar ideias em projetos reais. 🚀
+
+🚀 Tecnologias & Ferramentas
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,tailwind,mysql,postgres,docker,git,github,idea,vscode&theme=dark" /> </p>
+🏆 Projetos em Destaque
+
+
+
+<p align="center"> <a href="https://github.com/fabioeduu/REPO-1"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioeduu&repo=REPO-1&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/fabioeduu/REPO-2"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioeduu&repo=REPO-2&theme=tokyonight&hide_border=true" /> </a> </p>
+📊 Estatísticas do GitHub
+<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabioeduu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeduu&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=fabioeduu&theme=tokyonight&hide_border=true" /> </p>
+🎯 O que estou estudando agora
+
+Arquitetura limpa 🧩
+
+APIs REST com Java & Spring Boot
+
+Interface moderna com Next.js + Tailwind CSS
+
+Banco de dados relacional
+
+Deploy com Docker e Vercel
+
+🌐 Redes & Contato
+<p align="center"> <a href="https://www.linkedin.com/in/fabioeduu"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/fabioeduu"> <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:fabioeduu@outlook.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> </a> </p>
+⭐ Visitas ao perfil
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fabioeduu&style=flat-square&color=blue"> </p>
+<p align="center"> ✨ <b>Obrigado por visitar!</b> Se algum projeto te interessar, deixe uma ⭐ — isso me ajuda muito e me motiva a criar mais! </p>
