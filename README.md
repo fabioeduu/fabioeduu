@@ -30,19 +30,19 @@ Busco sempre evoluir como desenvolvedor e transformar ideias em projetos reais. 
 
 ## 🏆 Projetos em Destaque
 
-👉 Me envie os nomes dos seus projetos reais e eu adiciono aqui com cartões personalizados.
-
+<!-- Fallback simples se os cartões quebrarem algum dia -->
 <p align="center">
 
-  <a href="https://github.com/fabioeduu/REPO-1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioeduu&repo=REPO-1&theme=tokyonight&hide_border=true" />
-  </a>
+[![Repo: lume](https://img.shields.io/badge/Repo-lume-2b6cb0?style=for-the-badge&logo=github)](https://github.com/fabioeduu/lume)  
+**Lume** — Aplicação mobile desenvolvida com React Native / Expo.
 
-  <a href="https://github.com/fabioeduu/REPO-2">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioeduu&repo=REPO-2&theme=tokyonight&hide_border=true" />
-  </a>
+<br/>
+
+[![Repo: api-lume](https://img.shields.io/badge/Repo-api--lume-2b6cb0?style=for-the-badge&logo=github)](https://github.com/fabioeduu/api-lume)  
+**API Lume** — API backend para o aplicativo Lume.
 
 </p>
+
 
 ---
 
