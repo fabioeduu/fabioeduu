@@ -1,43 +1,98 @@
-🌟 Fábio Eduardo
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=6aa0f8&size=25&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+Fábio+Eduardo!;Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+React+%7C+Next.js;Criando+projetos+modernos+e+funcionais;Sempre+evoluindo+na+carreira+dev!" /> </p>
-👨‍💻 Sobre mim
+<h1 align="center">🌟 Fábio Eduardo</h1>
 
-Sou um desenvolvedor apaixonado por tecnologia e pela criação de soluções modernas e eficientes.
-Atualmente estudo Análise e Desenvolvimento de Sistemas na FIAP, e estou focado em aprimorar minhas habilidades com:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6aa0f8&size=25&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+Fábio+Eduardo!;Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+React+%7C+Next.js;Criando+projetos+modernos+e+funcionais;Sempre+evoluindo+na+carreira+dev!" />
+</p>
 
-Java & Spring Boot
+---
 
-React & Next.js
+## 👨‍💻 Sobre mim
 
-Arquitetura de APIs
+Sou um desenvolvedor apaixonado por tecnologia e pela criação de soluções modernas e eficientes.  
+Atualmente estudo **Análise e Desenvolvimento de Sistemas na FIAP**, e estou focado em aprimorar minhas habilidades com:
 
-Desenvolvimento full stack
+- **Java & Spring Boot**
+- **React & Next.js**
+- **Arquitetura de APIs**
+- **Desenvolvimento Full Stack**
 
-Busco sempre melhorar como desenvolvedor e transformar ideias em projetos reais. 🚀
+Busco sempre evoluir como desenvolvedor e transformar ideias em projetos reais. 🚀
 
-🚀 Tecnologias & Ferramentas
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,tailwind,mysql,postgres,docker,git,github,idea,vscode&theme=dark" /> </p>
-🏆 Projetos em Destaque
+---
 
-👉 Se quiser, me envie os nomes dos seus projetos reais e eu adiciono aqui com cartões personalizados.
+## 🚀 Tecnologias & Ferramentas
 
-<p align="center"> <a href="https://github.com/fabioeduu/REPO-1"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioeduu&repo=REPO-1&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/fabioeduu/REPO-2"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioeduu&repo=REPO-2&theme=tokyonight&hide_border=true" /> </a> </p>
-📊 Estatísticas do GitHub
-<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabioeduu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeduu&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=fabioeduu&theme=tokyonight&hide_border=true" /> </p>
-🎯 O que estou estudando agora
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,tailwind,mysql,postgres,docker,git,github,idea,vscode&theme=dark" />
+</p>
 
-Arquitetura limpa 🧩
+---
 
-APIs REST com Java & Spring Boot
+## 🏆 Projetos em Destaque
 
-Interface moderna com Next.js + Tailwind CSS
+👉 Me envie os nomes dos seus projetos reais e eu adiciono aqui com cartões personalizados.
 
-Banco de dados relacional
+<p align="center">
 
-Deploy com Docker e Vercel
+  <a href="https://github.com/fabioeduu/REPO-1">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioeduu&repo=REPO-1&theme=tokyonight&hide_border=true" />
+  </a>
 
-🌐 Redes & Contato
-<p align="center"> <a href="https://www.linkedin.com/in/fabioeduu"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/fabioeduu"> <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:fabioeduu@outlook.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> </a> </p>
-⭐ Visitas ao perfil
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fabioeduu&style=flat-square&color=blue"> </p>
-<p align="center"> ✨ <b>Obrigado por visitar!</b> Se algum projeto te interessar, deixe uma ⭐ — isso me ajuda muito e me motiva a criar mais! </p>
+  <a href="https://github.com/fabioeduu/REPO-2">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioeduu&repo=REPO-2&theme=tokyonight&hide_border=true" />
+  </a>
+
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabioeduu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeduu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=fabioeduu&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 O que estou estudando agora
+
+- Arquitetura limpa 🧩  
+- APIs REST com Java & Spring Boot  
+- Interface moderna com Next.js + Tailwind CSS  
+- Banco de dados relacional  
+- Deploy com Docker e Vercel  
+
+---
+
+## 🌐 Redes & Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabioeduu">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/fabioeduu">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="mailto:fabioeduu@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+  </a>
+</p>
+
+---
+
+## ⭐ Visitas ao perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fabioeduu&style=flat-square&color=blue">
+</p>
+
+<p align="center">
+ ✨ <b>Obrigado por visitar!</b> Se algum projeto te interessar, deixe uma ⭐ — isso me ajuda muito e me motiva a criar mais!
+</p>
