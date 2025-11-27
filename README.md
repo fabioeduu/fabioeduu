@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Fábio Eduardo</h1>
+<h1 align="center"> Fábio Eduardo</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6aa0f8&size=25&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+Fábio+Eduardo!;Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+React+%7C+Next.js;Criando+projetos+modernos+e+funcionais;Sempre+evoluindo+na+carreira+dev!" />
