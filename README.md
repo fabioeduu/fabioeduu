@@ -17,7 +17,13 @@ Me chamo Fábio Eduardo, tenho 32 anos e curso Análise e Desenvolvimento de Sis
 Sou apaixonado por tecnologia e focado na criação de soluções modernas e eficientes.  
 Atualmente estou me aprofundando em desenvolvimento Full Stack, com foco em:
 
-- Java & Spring Boot  
+- Java & Spring Boot
+- Angular & Tailwind
+- Oracle & Mysql
+- DevOps Azure
+- C#
+- Python
+- IOT
 - React & Next.js  
 - Arquitetura de APIs  
 - Desenvolvimento escalável  
@@ -29,13 +35,6 @@ Atualmente estou me aprofundando em desenvolvimento Full Stack, com foco em:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,tailwind,mysql,postgres,docker,git,github,idea,vscode&theme=dark" />
 </p>
-
----
-
-### 🏆 Projetos em Destaque
-
-- 🔹 **Lume** → Aplicação mobile com React Native / Expo  
-- 🔹 **API Lume** → Backend desenvolvido com Java e Spring Boot  
 
 ---
 
