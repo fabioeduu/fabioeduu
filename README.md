@@ -17,7 +17,8 @@ Sou apaixonado por tecnologia e focado na criação de soluções modernas e efi
 Atualmente estou me aprofundando em desenvolvimento Full Stack, com foco em:
 
 - Java & Spring Boot  
-- React & Next.js  
+- React & Next.js
+- Oracle, Mysql & mongoDB  
 - Arquitetura de APIs  
 - Desenvolvimento escalável  
 
