@@ -1,4 +1,3 @@
-# Fábio Eduardo 
 <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Seja Bem-Vindo!!
 ---
 
