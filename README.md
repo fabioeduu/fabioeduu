@@ -32,7 +32,7 @@ Atualmente estou me aprofundando em desenvolvimento Full Stack, com foco em:
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 Estatísticas
 <p align="center">
   <a href="https://github.com/fabioeduu">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabioeduu&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="fabioeduu's GitHub Stats" />
@@ -40,7 +40,7 @@ Atualmente estou me aprofundando em desenvolvimento Full Stack, com foco em:
 </p>
 
 
-## 🔗 Connect with Me
+## 🔗 Meus Contato
 <p align="center">
   <a href="https://www.linkedin.com/in/fabioeduu"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Fabio Eduardo's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:fabioeduu@outlook.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Fabio Eduardo's Email"/></a>&nbsp;&nbsp;
