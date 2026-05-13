@@ -61,24 +61,4 @@ Atualmente estou me aprofundando em desenvolvimento Full Stack, com foco em:
   </a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=gradient&customColorList=20,29,18,22&animation=twinkling&textBg=false" width="100%" />
-</p>
-
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:fabioeduu@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
-  </a>
-</p>
