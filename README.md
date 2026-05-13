@@ -39,27 +39,42 @@ Atualmente estou me aprofundando em desenvolvimento Full Stack, com foco em:
 
 ---
 
-## 📊 Estatísticas
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioeduu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeduu&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/fabioeduu/fabioeduu/output/snake.svg"/>
-
-</div>
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasChicote&show_icons=true&theme=dark&border_radius=10" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=LucasChicote&theme=dark&hide_border=true&cache_seconds=86400" alt="LucasChicote's GitHub Streak" width="49%" />
+</p>
 ---
-
-### 🌐 Contato
-
+## 🔗 Meus Contatos
 <p align="center">
   <a href="https://www.linkedin.com/in/fabioeduu">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://wa.me/5511975053965">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>
+  <a href="fabioeduu@outlook">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=gradient&customColorList=20,29,18,22&animation=twinkling&textBg=false" width="100%" />
+</p>
+
+<p align="center">
+  <a href="">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
