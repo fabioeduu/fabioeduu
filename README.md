@@ -39,27 +39,16 @@ Atualmente estou me aprofundando em desenvolvimento Full Stack, com foco em:
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=fabioeduu&show_icons=true&theme=dracula&locale=pt-br"
-  />
-
-  <img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeduu&theme=dracula&layout=compact"
-  />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioeduu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeduu&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
-<p>
-  <img
-    src="https://raw.githubusercontent.com/fabioeduu/fabioeduu/output/snake.svg"
-    alt="Snake animation"
-  />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fabioeduu/fabioeduu/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
