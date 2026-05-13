@@ -55,7 +55,12 @@ Atualmente estou me aprofundando em desenvolvimento Full Stack, com foco em:
   />
 </p>
 
-<img src="https://raw.githubusercontent.com/fabioeduu/fabioeduu/output/snake.svg" alt="Snake animation" />
+<p>
+  <img
+    src="https://raw.githubusercontent.com/fabioeduu/fabioeduu/output/snake.svg"
+    alt="Snake animation"
+  />
+</p>
 
 ---
 
